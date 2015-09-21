@@ -2,3 +2,4 @@ Acidobacteria
 Actinobacteria
 Spirochaetes
 Firmicutes
+Cyanobacteria
